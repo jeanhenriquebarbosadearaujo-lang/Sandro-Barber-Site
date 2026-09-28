@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap (endereço final a definir quando o domínio for registrado)
+Sitemap: https://sandrobarber.com.br/sitemap.xml

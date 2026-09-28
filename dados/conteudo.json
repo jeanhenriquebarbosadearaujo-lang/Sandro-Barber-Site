@@ -1,0 +1,130 @@
+{
+  "atualizado_em": "2026-09-25",
+  "negocio": {
+    "nome": "Sandro Barber",
+    "slogan": "Tradição e estilo em cada corte",
+    "telefone": "(75) 98700-1231",
+    "whatsapp": "5575987001231",
+    "endereco": "Rua Rita Maria de Jesus, 471",
+    "cidade": "Cansanção — Bahia",
+    "instagram": "",
+    "pagamentos": "Pix"
+  },
+  "hero": {
+    "titulo_linha1": "Tradição e estilo",
+    "titulo_linha2": "em cada corte",
+    "subtitulo": "Corte, barba, sobrancelha e tratamentos com acabamento de precisão. Agende online em menos de 1 minuto e garanta o seu horário."
+  },
+  "sobre": {
+    "titulo": "Quem cuida do seu estilo",
+    "paragrafo1": "Na Sandro Barber o atendimento é direto com quem entende do assunto: cada corte começa ouvindo o que você quer e termina no detalhe — na navalha, na tesoura e no acabamento.",
+    "paragrafo2": "Um ambiente tranquilo, com hora marcada, para você sair pronto para qualquer ocasião.",
+    "destaques": [
+      "Cortes clássicos e modernos",
+      "Barba feita e desenhada na navalha",
+      "Atendimento com hora marcada",
+      "Pagamento em Pix, cartão ou dinheiro"
+    ]
+  },
+  "servicos": [
+    {
+      "categoria": "Cortes",
+      "itens": [
+        {
+          "nome": "Corte",
+          "descricao": "Tesoura, máquina e acabamento na navalha",
+          "preco": 15,
+          "duracao": 40
+        },
+        {
+          "nome": "Corte + Barba",
+          "descricao": "O combo completo, com barba alinhada e desenhada",
+          "preco": 25,
+          "duracao": 40,
+          "destaque": true
+        },
+        {
+          "nome": "Corte + Barba + Sobrancelha",
+          "descricao": "Cuidado completo de ponta a ponta",
+          "preco": 25,
+          "duracao": 40
+        }
+      ]
+    },
+    {
+      "categoria": "Acabamento",
+      "itens": [
+        {
+          "nome": "Pé simples",
+          "descricao": "Manutenção rápida do contorno",
+          "preco": 5,
+          "duracao": 10
+        },
+        {
+          "nome": "Pé máximo",
+          "descricao": "Pé completo, com acabamento detalhado",
+          "preco": 10,
+          "duracao": 15
+        },
+        {
+          "nome": "Sobrancelha",
+          "descricao": "Alinhamento e design com navalha",
+          "preco": 5,
+          "duracao": 5
+        }
+      ]
+    },
+    {
+      "categoria": "Tratamentos & cor",
+      "itens": [
+        {
+          "nome": "Luzes",
+          "descricao": "Descoloração e iluminação dos fios",
+          "preco": 35,
+          "duracao": 90
+        },
+        {
+          "nome": "Progressiva",
+          "descricao": "Alisamento com brilho e controle de volume",
+          "preco": 50,
+          "duracao": 90
+        },
+        {
+          "nome": "Relaxamento",
+          "descricao": "Redução de volume mantendo o movimento natural",
+          "preco": 15,
+          "duracao": 20
+        }
+      ]
+    }
+  ],
+  "horarios": [
+    {
+      "dias": "Todos os dias",
+      "faixas": "09h–12h · 13h–17h",
+      "semana": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "aberto": "09:00-12:00,13:00-17:00"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Pasta Modeladora Felliny Summer",
+      "descricao": "Proteção solar, queratina e fixação forte. Acabamento matte com cheiro refrescante.",
+      "imagem": ""
+    },
+    {
+      "nome": "Pasta Modeladora Felliny Millyon",
+      "descricao": "Efeito matte com fixação extra forte, resistente ao suor e à umidade do dia.",
+      "imagem": ""
+    }
+  ],
+  "depoimentos": []
+}
